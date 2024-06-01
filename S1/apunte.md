@@ -247,3 +247,45 @@ ACTIVIDAD: Hacer 3 consultas a la base de datos 'mi_blog' a la tabla categorias.
 ```
 
 TODO: La explicación de JOIN queda pendiente.
+
+> Proyecto 'Punto_de_venta'
+
+TODO: Se implementa la explicación del proyecto
+'punto_de_venta'.
+
+_Un punto de venta (POS) es el lugar físico o virtual donde se realizan transacciones comerciales. En un contexto físico, el POS es el lugar donde los clientes pagan por bienes o servicios, como tiendas o restaurantes. En un contexto virtual, el POS se refiere al software y hardware utilizados para procesar pagos en línea. El sistema POS incluye dispositivos como cajas registradoras, terminales de pago y software de gestión de ventas, facilitando no solo las transacciones, sino también otras funciones comerciales como la gestión de inventario y clientes._
+
+*Pasos para crear el punto de venta:*
+
+1. Definir los requisitos del sistema.
+* Producto (tabla)
+* Administrador (tabla)
+* Vendedor (tabla)
+* Carrito
+* Ticket
+
+2. Diseño de la base de datos.
+* Hacer diagramas de entidades
+* Crear la base de datos en Workbench
+* Ponerle algunos registros
+
+3. Configurar la conexión a la base de datos.
+* Crear la conexión usando la JDBC
+
+4. Diseñar los modelos de la lógica de negocio. (Diagramas UML y clases java).
+    1. Producto (tabla)
+    2. Administrador (tabla)
+    3. Vendedor (tabla)
+    4. Carrito
+    5. Ticket
+
+5. Crear un sistema de repositorio que integre las funciones de un CRUD.
+
+6. Hacer un Test de las funciones del repositorio.
+
+7. Hacer un diseño (wireframes) de las vistas de la aplicación.
+
+8. Crear la GUI con un asistente de diseño.
+
+9. Realizar pruebas.
+
